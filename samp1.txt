@@ -1,1 +1,1 @@
-samp 2
+repo 2 samp 1
